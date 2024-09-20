@@ -9,6 +9,7 @@ User of eCryptFS are encouraged not to use psd unless willing to help troublesho
 
 ## Supported Browsers
 * Chromium
+* Ungoogled-chromium (flatpak)
 * Conkeror
 * Epiphany
 * Firefox (stable, beta, and aurora)
